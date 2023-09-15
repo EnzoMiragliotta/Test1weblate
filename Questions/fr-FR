@@ -1,1 +1,167 @@
+{
+  "Question.are-you-feeling-cheerful.Title": "Vous sentez-vous joyeux ?",
+	"Question.are-you-feeling-cheerful.Content": {
+		"question": "Vous sentez-vous joyeux ?",
+		"options": [
+      "À aucun moment",
+      "Une partie du temps",
+      "Moins de la moitié du temps",
+      "Plus de la moitié du temps",
+      "La plupart du temps",
+      "Tout le temps"
+		]
+	},
+  "Question.are-you-calm-and-relaxed.Title": "Êtes-vous calme et détendu ?",
+	"Question.are-you-calm-and-relaxed.Content": {
+		"question": "Êtes-vous calme et détendu ?",
+		"options": [
+			"À aucun moment",
+      "Une partie du temps",
+      "Moins de la moitié du temps",
+      "Plus de la moitié du temps",
+      "La plupart du temps",
+      "Tout le temps"
+		]
+	},
+	"Question.are-you-active-and-energetic.Title": "Êtes-vous actif et énergétique ?",
+	"Question.are-you-active-and-energetic.Content": {
+		"question": "Êtes-vous actif et énergétique ?",
+		"options": [
+			"À aucun moment",
+      "Une partie du temps",
+      "Moins de la moitié du temps",
+      "Plus de la moitié du temps",
+      "La plupart du temps",
+      "Tout le temps"
+		]
+	},
+  "Question.today-i-woke-up-feeling-fresh-and-rested.Title": "À quelle fréquence vous réveillez-vous frais et reposé ?",
+	"Question.today-i-woke-up-feeling-fresh-and-rested.Content": {
+		"question": "À quelle fréquence vous réveillez-vous frais et reposé ?",
+		"options": [
+			"À aucun moment",
+      "Une partie du temps",
+      "Moins de la moitié du temps",
+      "Plus de la moitié du temps",
+      "La plupart du temps",
+      "Tout le temps"
+		]
+	},
+  "Question.are-you-doing-things-that-you-find-interestin.Title": "Faites-vous des choses que vous trouvez intéressantes et qui ont une signification pour vous ?",
+	"Question.are-you-doing-things-that-you-find-interestin.Content": {
+		"question": "Faites-vous des choses que vous trouvez intéressantes et qui ont une signification pour vous ?",
+		"options": [
+			"À aucun moment",
+      "Une partie du temps",
+      "Moins de la moitié du temps",
+      "Plus de la moitié du temps",
+      "La plupart du temps",
+      "Tout le temps"
+		]
+	},
+	"Question.my-life-is-close-to-my-ideal.Title": "Ma vie est proche de mon idéal",
+	"Question.my-life-is-close-to-my-ideal.Content": {
+		"question": "Ma vie est proche de mon idéal",
+		"options": [
+			"En désaccord total",
+			"Pas d'accord",
+			"Plutôt en désaccord",
+			"Ni d'accord ni en désaccord",
+			"Plutôt d'accord",
+			"D'accord",
+			"Tout à fait d'accord"
+		]
+	},
+	"Question.i-consider-my-life-as-excellent.Title": "Je considère ma vie comme excellente",
+	"Question.i-consider-my-life-as-excellent.Content": {
+		"question": "Je considère ma vie comme excellente",
+		"options": [
+			"En désaccord total",
+			"Pas d'accord",
+			"Plutôt en désaccord",
+			"Ni d'accord ni en désaccord",
+			"Plutôt d'accord",
+			"D'accord",
+			"Tout à fait d'accord"
+		]
+	},
+  "Question.i-am-satisfied-with-my-life.Title": "Je suis satisfait dans ma vie",
+	"Question.i-am-satisfied-with-my-life.Content": {
+		"question": "Je suis satisfait dans ma vie",
+		"options": [
+			"En désaccord total",
+			"Pas d'accord",
+			"Plutôt en désaccord",
+			"Ni d'accord ni en désaccord",
+			"Plutôt d'accord",
+			"D'accord",
+			"Tout à fait d'accord"
+		]
+	},
+	"Question.so-far-i-have-gotten-the-important-things-in.Title": "Jusqu'à présent, j'ai obtenu des choses importantes dans ma vie",
+	"Question.so-far-i-have-gotten-the-important-things-in.Content": {
+		"question": "Jusqu'à présent, j'ai obtenu des choses importantes dans ma vie",
+		"options": [
+			"En désaccord total",
+			"Pas d'accord",
+			"Plutôt en désaccord",
+			"Ni d'accord ni en désaccord",
+			"Plutôt d'accord",
+			"D'accord",
+			"Tout à fait d'accord"
+		]
+	},
+	"Question.if-i-could-relive-my-life-i-would-not-change.Title": "Si je devais revivre ma vie, je ne changerais rien",
+	"Question.if-i-could-relive-my-life-i-would-not-change.Content": {
+		"question": "Si je devais revivre ma vie, je ne changerais rien",
+		"options": [
+			"En désaccord total",
+			"Pas d'accord",
+			"Plutôt en désaccord",
+			"Ni d'accord ni en désaccord",
+			"Plutôt d'accord",
+			"D'accord",
+			"Tout à fait d'accord"
+		]
+	},
+  "Question.i-am-usually-enthusiastic-about-my-work.Title": "Je suis généralement enthousiaste à propos de mon travail",
+	"Question.i-am-usually-enthusiastic-about-my-work.Content": {
+		"question": "Je suis généralement enthousiaste à propos de mon travail",
+		"options": [
+			"En désaccord total",
+			"Pas d'accord",
+			"Plutôt en désaccord",
+			"Ni d'accord ni en désaccord",
+			"Plutôt d'accord",
+			"D'accord",
+			"Tout à fait d'accord"
+		]
+	},
+  "Question.i-feel-trusted-and-valued-at-work.Title": "Je me sens en confiance et valorisé au travail",
+	"Question.i-feel-trusted-and-valued-at-work.Content": {
+		"question": "Je me sens en confiance et valorisé au travail",
+		"options": [
+			"En désaccord total",
+			"Pas d'accord",
+			"Plutôt en désaccord",
+			"Ni d'accord ni en désaccord",
+			"Plutôt d'accord",
+			"D'accord",
+			"Tout à fait d'accord"
+		]
+	},
+	"Question.my-organisation-is-a-friendly-place-to-work.Title": "Mon entreprise est un espace agréable où travailler",
+	"Question.my-organisation-is-a-friendly-place-to-work.Content": {
+		"question": "Mon entreprise est un espace agréable où travailler",
+		"options": [
+			"En désaccord total",
+			"Pas d'accord",
+			"Plutôt en désaccord",
+			"Ni d'accord ni en désaccord",
+			"Plutôt d'accord",
+			"D'accord",
+			"Tout à fait d'accord"
+		]
+	}
+}
 
